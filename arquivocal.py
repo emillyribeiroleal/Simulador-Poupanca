@@ -46,7 +46,7 @@ print ("\n=====RELATÓRIO DA SIMULAÇÃO====\n")
 print(f"O total guardado foi de: R${totalguar}")
 print(f"A quantidades escolhida para fazer a simulação foi de:  {meses} meses")
 print(f"Se o depósito for de R${totalguar} por {meses} meses o valor final será de: {totalguar*meses:.2f}")
-print(f"O valor escolhido para simular o rendimento foi de: {valor}%")
+print(f"O valor escolhido para simular o rendimento foi de: {valor}")
 print(f"O total final da simulação com acréscimo do rendimento é de: {valor_final} ")
 
 
